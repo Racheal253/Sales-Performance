@@ -7,3 +7,13 @@ This project aims to deliver insights into sales performance for MavenTech Compa
 
 The project also includes in-depth DAX measures to analyze sales performance by individual team members, allowing sales managers to identify areas of improvement and make informed decisions.
 
+
+
+
+
+
+## Audience 
+
+Sales Managers
+
+
