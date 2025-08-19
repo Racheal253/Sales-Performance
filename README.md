@@ -23,10 +23,11 @@ The project also includes in-depth DAX measures to analyze sales performance by 
 
 
 
-<img width="608" height="338" alt="sales performance" src="https://github.com/user-attachments/assets/c84438c7-0a9b-4317-8a28-bc442f323e30" />
+<img width="608" height="338" alt="sales performance" src="https://github.com/user-attachments/assets/c84438c7-0a9b-4317-8a28-bc442f323e30" />   <img width="616" height="337" alt="sales performance2" src="https://github.com/user-attachments/assets/d49db95e-675d-4351-bc04-ac50914d0e89" />
 
 
 [Dashboard Link](https://app.powerbi.com/links/Gm3IEyatVB?ctid=04ade39f-5160-4faa-bcff-26d243a2b402&pbi_source=linkShare)
+
 
 ## Audience 
 
