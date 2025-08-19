@@ -23,7 +23,7 @@ The project also includes in-depth DAX measures to analyze sales performance by 
 
 
 
-![Hospital Report]
+<img width="608" height="338" alt="sales performance" src="https://github.com/user-attachments/assets/c84438c7-0a9b-4317-8a28-bc442f323e30" />
 
 
 [Dashboard Link](https://app.powerbi.com/links/Gm3IEyatVB?ctid=04ade39f-5160-4faa-bcff-26d243a2b402&pbi_source=linkShare)
